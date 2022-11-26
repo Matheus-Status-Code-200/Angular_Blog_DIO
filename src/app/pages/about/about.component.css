@@ -1,0 +1,42 @@
+.container_content {
+    width: 100%;
+    height: 100%;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.content_description {
+    padding-top: 15px;
+    width: 70%;
+    font-size: 2rem;
+}
+
+.content_cover>img {
+    display: flex;
+    margin-left: 15%;
+    width: 70%;
+    height: 70%;
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 50%;
+    border: 5px solid green;
+}
+
+a {
+    padding: 2rem;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.content_cover>a,
+h1 {
+    padding: 2rem;
+}

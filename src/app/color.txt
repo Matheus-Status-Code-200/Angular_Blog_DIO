@@ -1,0 +1,2 @@
+25,24,26 cinza mais escuro 
+64,62,65

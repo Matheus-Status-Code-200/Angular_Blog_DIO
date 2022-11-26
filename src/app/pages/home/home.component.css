@@ -1,0 +1,11 @@
+.artigos {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.artigos-secundarios {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

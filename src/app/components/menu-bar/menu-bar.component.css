@@ -1,0 +1,19 @@
+.container_menu {
+    display: flex;
+    color: azure;
+    padding: 10px;
+    justify-content: center;
+}
+
+ul {
+    padding: 5px;
+}
+
+a {
+    color: azure;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+}

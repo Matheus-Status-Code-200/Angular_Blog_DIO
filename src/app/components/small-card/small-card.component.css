@@ -1,0 +1,41 @@
+.small-container {
+    display: flex;
+    flex-direction: row;
+    color: aliceblue;
+}
+
+.small-imagem {
+    width: 25%;
+    min-width: 10%;
+}
+
+.small-imagem>img {
+    width: 100%;
+    min-width: 10%;
+}
+
+.small-card-title>h1>a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    padding: 40px;
+}
+
+.small-card-discription {
+    color: gray;
+}
+
+p {
+    color: aliceblue;
+}
+
+a {
+    padding: 1rem;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+hr {
+    margin-bottom: 5px;
+}

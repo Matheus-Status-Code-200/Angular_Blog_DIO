@@ -1,0 +1,23 @@
+.container_menu-title {
+    color: rgb(46, 184, 46);
+}
+
+hr {
+    background-color: rgb(46, 184, 46);
+    height: 0.2rem;
+    border-bottom: rgb(46, 184, 46);
+}
+
+.container_menu-title>h1 {
+    font-size: 6rem;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container_menu-title>h6 {
+    margin-right: 3rem;
+    margin-bottom: 0.2rem;
+    margin-left: 0.5rem;
+}
