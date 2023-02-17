@@ -1,5 +1,5 @@
 Angular_Blog
-Blog criado com angular e TypeScript no curso da DIO.
+Blog criado com angular e TypeScript no curso da DIO deploy em: https://blog-angular-dio.netlify.app/ .
 
 AngularBlog
 This project was generated with Angular CLI version 14.2.9.
